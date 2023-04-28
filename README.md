@@ -23,9 +23,9 @@ You are provided hourly rental data spanning two years. For this competition, th
 **workingday** - whether the day is neither a weekend nor holiday
 
 **weather** - 1: Clear, Few clouds, Partly cloudy, Partly cloudy
-2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
-3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
-4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog 
+  2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist
+  3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+  4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog 
 
 **temp** - temperature in Celsius
 
