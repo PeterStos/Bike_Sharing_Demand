@@ -1,6 +1,6 @@
-# Bike_Sharing_Demand
+# Bike Sharing Demand
 
-This project is based on Kaggle a Kaggle competition called [Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand/overview).
+This project is based on a Kaggle competition called [Bike Sharing Demand](https://www.kaggle.com/competitions/bike-sharing-demand/overview).
 
 Combining historical usage patterns with weather data to forecast bike rental demand in the Capital Bikeshare program in Washington, D.C
 
